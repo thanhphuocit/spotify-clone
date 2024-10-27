@@ -111,6 +111,13 @@ export const albumsData = [
         image: img15,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#744210"
+    },
+    {   
+        id:100,
+        name: "Top V-POP 100 VN",
+        image: img15,
+        desc:"Your weekly update of the most played tracks",
+        bgColor:"#744210"
     }
 ]
 
